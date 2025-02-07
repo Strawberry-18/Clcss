@@ -11,6 +11,7 @@
         "bg-red-700": "background-color: #b91c1c;",
         "bg-red-800": "background-color: #991b1b;",
         "bg-red-900": "background-color: #7f1d1d;",
+        "bg-red-1000":"background-color: #CF7878",
         
         "bg-blue-50": "background-color: #eff6ff;",
         "bg-blue-100": "background-color: #dbeafe;",
